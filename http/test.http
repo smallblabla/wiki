@@ -1,0 +1,4 @@
+GET http://localhost:7777/list?name=spring
+Accept: application/json
+
+###
